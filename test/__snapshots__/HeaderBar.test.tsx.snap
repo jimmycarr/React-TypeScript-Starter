@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The headerbar component Should match its previously written snapshot 1`] = `
+<div
+  className="sc-bdVaJa hjRBNr"
+>
+  <h1
+    className="sc-bwzfXH ixKSS"
+  >
+    Garage Starter Example
+  </h1>
+</div>
+`;
