@@ -1,7 +1,7 @@
 {
-  "name": "sumo-client",
+  "name": "react-typescript-starter",
   "version": "0.0.2",
-  "description": "Client for the fantasy sumo app",
+  "description": "A boilerplate starter for the Garage projects that wish to use React as a frontend. With added TypeScript!",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
@@ -10,7 +10,7 @@
     "test": "jest",
     "tdd": "jest --watchAll"
   },
-  "author": "James Carr",
+  "author": "IBM Cloud Garage [James Carr]",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "23.3.1",
