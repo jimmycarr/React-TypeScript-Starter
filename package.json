@@ -1,10 +1,11 @@
 {
   "name": "sumo-client",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Client for the fantasy sumo app",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
+    "start:static": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production",
     "test": "jest",
     "tdd": "jest --watchAll"
