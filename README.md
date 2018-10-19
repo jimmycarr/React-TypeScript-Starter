@@ -6,13 +6,17 @@ This README covers the basic running of the React Typescript Starter for the IBM
 
 To run this asset locally, in Developer mode:
 
-1. `npm install`
-1. `npm start` (note this starts a 'hot' server that will refresh on changes detected in the code. If you want a static server run `npm run start:static`)
+1. From the app directory, change into the client directory with `cd client`.
+1. Run `npm install`.
+1. Run `npm start` (note this starts a 'hot' server that will refresh on changes detected in the code. If you want a static server run `npm run start:static`).
 
 To run the tests:
 
-- `npm test` for a single test run
-- `npm run tdd` to keep your tests running in watch mode
+1. From the app directory, change into the client directory with `cd client`.
+1. Then run either:
+
+- `npm test` for a single test run.
+- `npm run tdd` to keep your tests running in watch mode (tests will automatically run when changes occur in the code).
 
 ## Running in a Cloud Environment
 
