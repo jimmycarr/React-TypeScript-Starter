@@ -29,7 +29,14 @@ You can also run the express server:
 
 ## Running in a Cloud Environment
 
-- To be added!
+To simply push the application to IBM Cloud:
+
+1. Ensure you are logged into IBM Cloud on the command line and are in the org and space you want to deploy to.
+1. From the app directory, run `npm build` to create a new or updated distribution.
+1. Run `ibmcloud cf push Your-Application-Name` replacing "Your-Application-Name" with whatever you want to call your app.
+1. Go to the route shown in the output of the CF call to see your application running in the cloud.
+
+If you prefer to use pipelines to do Continuous Deployments, there are build, test and deploy scripts in the scripts folder. Reference the correct file in each stage and your application will automatically be deployed with each push to gitlab (or your prefered source control management system). For setting up delivery pipelines, see here: https://console.bluemix.net/docs/services/ContinuousDelivery/pipeline_working.html#pipeline-working
 
 ## Q&A
 
