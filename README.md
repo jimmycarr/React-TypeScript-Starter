@@ -1,6 +1,6 @@
 # IBM Cloud Garage - React Typescript Starter
 
-This README covers the basic running of the React Typescript Starter for the IBM Cloud Garage. This is project is a good boilerplate starter if you wish to use React with Typescript on your next Garage project. For other boilerplates to start your Garage project, please see our boilerplate catalogue at: . Feel free to request other boilerplates, suggest enhancements to current ones, or get involved with the development of these assets.
+This README covers the basic running of the React Typescript Starter for the IBM Cloud Garage. This project is a boilerplate starter using React with Typescript, designed to help accelate the outset of your next Garage project. For other boilerplates to help with starting your Garage project, please see our boilerplate catalogue at: https://ibm.ent.box.com/notes/317998900286. Feel free to request other boilerplates, suggest enhancements to current ones, or get involved with the development of these assets.
 
 ## Local Running
 
