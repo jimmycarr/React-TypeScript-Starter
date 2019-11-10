@@ -1,4 +1,4 @@
-# IBM Cloud Garage - React Typescript Starter
+# React Typescript Starter
 
 This README covers the basic running of a boilerplate starter project using React with Typescript, designed to help accelerate the outset of your next project without using CRA.
 
