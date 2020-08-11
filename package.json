@@ -4,7 +4,7 @@
   "description": "Simple Express server to serve react front end",
   "main": "app.js",
   "dependencies": {
-    "express": "4.16.4"
+    "express": "4.17.1"
   },
   "devDependencies": {},
   "scripts": {
